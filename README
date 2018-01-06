@@ -1,0 +1,9 @@
+# Multistage Docker Example
+
+A quick example of how to use Docker's multistage functionality to build an application in an intermediary container and then move it into another container for production.
+
+# References
+
+[Docker Docs](https://docs.docker.com/engine/userguide/eng-image/multistage-build)
+[Golang Wiki](https://golang.org/doc/articles/wiki/)
+
